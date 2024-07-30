@@ -7,7 +7,6 @@
 - 🔭 Actualemnte trabajo como Desarrolladora Frontend!
 - 👩🏻‍🎓 Estudie la carrera en el Instituto Tecnologico de Tehuacán, Puebla.
 
-
 **Tecnologías y Herrameintas que utilizo:**
 
 <p align="left">
