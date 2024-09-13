@@ -4,7 +4,7 @@
 
 **Acerca de mí:** 
 - 👩🏻‍💻 Ingeniera en Sistemas Computacionales y desarrolladora de software, compartiendo mis proyectos personales.
-- 🔭 Actualemnte trabajo como Desarrolladora Frontend!
+- 🔭 Actualmente trabajo como Desarrolladora Frontend!
 - 👩🏻‍🎓 Estudie la carrera en el Instituto Tecnologico de Tehuacán, Puebla.
 
 **Tecnologías y Herrameintas que utilizo:**
